@@ -1,1 +1,24 @@
-save.file
+{
+  "Visibility": "VISIBLE",
+  "Title": "NEW VERSION",
+  "Description": "New Update 2024 SEPTEMBER 4
+Rank booster : version 2.4
+
+New features 
+
+🔰 Damage Hack 
+🔰Franco hook auto aim
+🔰 smoth gameplay
+🔰 Damage all hero
+🔰 defense up to 5x
+🔰Fix Spawn delay 
+🔰 Gatot damage hack
+🔰Map hack
+
+leomodz",
+  "MainTextButton": "Update",
+  "Cancelable": "true",
+  "CancelButtonText": "Cancel",
+  "DownloadLink": "https://www.mediafire.com/file/5w2hxg65wm4doc4/Rankbooster_September_4.zip/file",
+  "Version": "1.1"
+}
